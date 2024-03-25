@@ -1,0 +1,15 @@
+C:\Users\tomha\RiderProjects\snake\snake\bin\Debug\net8.0\snake.exe
+C:\Users\tomha\RiderProjects\snake\snake\bin\Debug\net8.0\snake.deps.json
+C:\Users\tomha\RiderProjects\snake\snake\bin\Debug\net8.0\snake.runtimeconfig.json
+C:\Users\tomha\RiderProjects\snake\snake\bin\Debug\net8.0\snake.dll
+C:\Users\tomha\RiderProjects\snake\snake\bin\Debug\net8.0\snake.pdb
+C:\Users\tomha\RiderProjects\snake\snake\obj\Debug\net8.0\snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomha\RiderProjects\snake\snake\obj\Debug\net8.0\snake.AssemblyInfoInputs.cache
+C:\Users\tomha\RiderProjects\snake\snake\obj\Debug\net8.0\snake.AssemblyInfo.cs
+C:\Users\tomha\RiderProjects\snake\snake\obj\Debug\net8.0\snake.csproj.CoreCompileInputs.cache
+C:\Users\tomha\RiderProjects\snake\snake\obj\Debug\net8.0\snake.dll
+C:\Users\tomha\RiderProjects\snake\snake\obj\Debug\net8.0\refint\snake.dll
+C:\Users\tomha\RiderProjects\snake\snake\obj\Debug\net8.0\snake.pdb
+C:\Users\tomha\RiderProjects\snake\snake\obj\Debug\net8.0\snake.genruntimeconfig.cache
+C:\Users\tomha\RiderProjects\snake\snake\obj\Debug\net8.0\ref\snake.dll
+C:\Users\tomha\RiderProjects\snake\snake\obj\Debug\net8.0\snake.sourcelink.json
