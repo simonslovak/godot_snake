@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JEdOnZjhKDgm1cbMMPtuzeTaET+XrGTZ3yLm1K8sZx0NdnM5Hv2Gqsmi9HMJ75DVnRo7rY18EEC8tJ2FGS1YWQ==",
+  "dgSpecHash": "gYtFrlK5VeNB1MW3fDyO1HJOpmsG0as314dSdNwQvx1ChlL1Itc9igUywdPTmVblh0uAgkJAlhDNSZ41OBj8mA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tomha\\RiderProjects\\snake\\snake\\snake.csproj",
+  "projectFilePath": "C:\\Users\\Slova\\godot_snake\\snake.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
